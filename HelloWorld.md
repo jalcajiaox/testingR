@@ -1,13 +1,14 @@
 ---
-title: "HelloWorld.md"
+title: "HelloWorld"
 author: "Jorge"
-date: "4/11/2020"
+date: "6/11/2020"
 output: html_document
 ---
-##This is a markdown file
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+## This is a markdown file
 
 ## R Markdown
 
